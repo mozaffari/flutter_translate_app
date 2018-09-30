@@ -2,7 +2,7 @@
 
 Simple Flutter Translate app.
 
-Make sure to edit android/key.properties before building release app
+Make sure to add android/key.properties before building release app
 
 ## Getting Started
 
