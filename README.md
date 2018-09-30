@@ -1,8 +1,10 @@
-# gtranslate
+# Persian Dic 
 
-A new Flutter project.
+Simple Flutter Translate app.
+
+Make sure to edit android/key.properties before building release app
 
 ## Getting Started
 
-For help getting started with Flutter, view our online
+For help getting started with Flutter, view online
 [documentation](https://flutter.io/).
